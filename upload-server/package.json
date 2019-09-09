@@ -10,7 +10,7 @@
   "author": "hongchh_sysu@qq.com",
   "license": "ISC",
   "dependencies": {
-    "ali-oss": "^5.2.0",
+    "ali-oss": "^5.3.2",
     "body-parser": "^1.17.2",
     "co": "^4.6.0",
     "express": "^4.15.2",

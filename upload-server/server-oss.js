@@ -10,9 +10,9 @@ const port = 3000;
 
 var client = new OSS({
   endpoint: 'oss-cn-beijing.aliyuncs.com',
-  accessKeyId: 'LTAIac4p8qHNx5x2',
-  accessKeySecret: '--',
-  bucket: 'tensquare-test'
+  accessKeyId: 'LTAI90BXNlFeZ2wd',
+  accessKeySecret: 'nadvAMYdubHcG2Awm18mzcGgxHngZl',
+  bucket: 'tensquare-html'
 });
 
 
